@@ -4,7 +4,7 @@ Hi 👋 My name is Azanda
 Full-Stack Software Engineer
 ----------------------------
 
-I'm an agnostic engineer working on bringing the future of tech sooner than expected so GenZ programmers can be the founding fathers of tomorrow's age of tech!
+I'm an agnostic engineer working on bringing the future of tech sooner than we expected, so GenZ programmers can be the founding fathers of tomorrow's tech age!
 
 * 🌍  I'm based in Johanessburg, South Africa
 * ✉️  You can contact me at [judah.zama@gmail.com](mailto:judah.zama@gmail.com)
