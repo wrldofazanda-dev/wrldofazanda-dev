@@ -4,11 +4,10 @@ Hi 👋 My name is Azanda
 Full-Stack Software Engineer
 ----------------------------
 
-I'm an agnostic engineer working on bringing the future of tech sooner than we expected, so GenZ programmers can be the founding fathers of tomorrow's tech age!
+I develop web/mobile/desktop apps for fun!
 
-* 🌍  I'm based in Johanessburg, South Africa
-* ✉️  You can contact me at [judah.zama@gmail.com](mailto:judah.zama@gmail.com)
-* 🤝  I'm open to collaborating on projects that promote bringing the future of tech closer to us
+* 🤝  I'm open to collaborating on projects.
+* ✉️  You can contact me at [azandaz@ceeteegee.org](mailto:azandaz@ceeteegee.org)
 * ⚡  Lets race on 10ff.net, loser buys the other a coffee
 
 <a href="https://www.twitter.com/wrldofazanda" target="_blank" rel="noreferrer"><img
