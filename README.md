@@ -8,7 +8,7 @@ I develop web/mobile/desktop apps for fun!
 
 * 🤝  I'm open to collaborating on projects.
 * ✉️  You can contact me at [azandaz@ceeteegee.org](mailto:azandaz@ceeteegee.org)
-* ⚡  Lets race on 10ff.net, loser buys the other a coffee
+* ⚡  Lets race on <a href="https://10ff.net">10ff.net</a>, loser buys the other a coffee
 
 <a href="https://www.twitter.com/wrldofazanda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/wrldofazanda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
